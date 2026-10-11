@@ -131,7 +131,7 @@ Responsive business website created for a local café, with menu, location, cont
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=connectwithKavyXCyber024-lab&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=connectwithKavyXCyber024-lab&label=PROFILE+VIEWS&style=flat-square" alt="Profile Views"/>
 
 <br><br>
 
