@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/connectwithKavyXCyber024-lab/connectwithKavyXCyber024-lab/main/banner.svg" alt="Kavy Soni, Python, React.js, Full-Stack Developer"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=760&lines=Python+%26+React.js+Developer;Building+Web+Applications;Learning+DSA%2C+Backend+Development+%26+AI%2FML;Open+to+Opportunities" alt="Typing introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=760&lines=Python+%26+React.js+Developer;Building+Web+Applications;Learning+DSA%2C+Backend+Development+%26+AI%2FML;Open+to+SDE+Internships+%26+Opportunities" alt="Typing introduction"/>
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding animation"/>
 
