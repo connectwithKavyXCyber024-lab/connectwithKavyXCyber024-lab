@@ -85,11 +85,18 @@ Responsive business website created for a local café, with menu, location, cont
 
 ## 🏆 Trophies
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=connectwithKavyXCyber024-lab&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub trophies"/>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=connectwithKavyXCyber024-lab&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge)
+## 🏆 Highlights
 
-<br><br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Projects-3%20Live%20Deployed-brightgreen?style=for-the-badge" alt="Projects"/>
+  <img src="https://img.shields.io/badge/Repositories-14-blue?style=for-the-badge" alt="Repositories"/>
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Dev-blueviolet?style=for-the-badge" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Open%20to-SDE%20Internships-success?style=for-the-badge" alt="Open to internships"/>
+</p>
 
 ## 📊 GitHub Statistics
 
