@@ -157,4 +157,4 @@ Responsive business website created for a local café, with menu, location, cont
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" alt="Footer banner"/>
+<img width="100%" src="https://raw.githubusercontent.com/connectwithKavyXCyber024-lab/connectwithKavyXCyber024-lab/main/footer.svg" alt="Footer"/>
