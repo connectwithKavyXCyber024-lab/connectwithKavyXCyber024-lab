@@ -116,7 +116,7 @@
   <rect width="1200" height="320" fill="url(#fade)"/>
 
   <!-- text -->
-  <text class="code" x="64" y="82">// building quietly, shipping often</text>
+  <text class="code" x="64" y="82">// Building quietly, shipping often</text>
   <text class="name" x="62" y="150">Kavy Soni</text>
   <text class="role" x="64" y="192">Python  |  React.js  |  Full-Stack Developer</text>
   <text class="code" x="64" y="232">const status = "open to opportunities";</text>
