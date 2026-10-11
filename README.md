@@ -129,8 +129,7 @@ Responsive business website created for a local café, with menu, location, cont
 
 ## 👀 Profile Views
 
-<img src="https://hits.sh/github.com/connectwithKavyXCyber024-lab.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=blueviolet" alt="Profile views"/>
-
+<img src="https://komarev.com/ghpvc/?username=connectwithKavyXCyber024-lab&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge&base=400" alt="Profile views"/>
 ### Thanks for visiting my profile!
 
 </div>
