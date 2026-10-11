@@ -87,7 +87,7 @@ Responsive business website created for a local café, with menu, location, cont
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=connectwithKavyXCyber024-lab&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub trophies"/>
+<img src="https://komarev.com/ghpvc/?username=connectwithKavyXCyber024-lab&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
