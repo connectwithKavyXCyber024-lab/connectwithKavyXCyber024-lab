@@ -86,7 +86,22 @@ Responsive business website created for a local café, with menu, location, cont
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=connectwithKavyXCyber024-lab&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub trophies"/>
+  <img src="https://img.shields.io/github/followers/connectwithKavyXCyber024-lab?style=for-the-badge&logo=github&label=Followers&color=blueviolet" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/connectwithKavyXCyber024-lab?style=for-the-badge&logo=github&label=Stars&color=yellow" alt="Stars"/>
+  <img src="https://img.shields.io/badge/Public%20Repos-14-blue?style=for-the-badge&logo=github" alt="Repos"/>
+  <img src="https://img.shields.io/github/last-commit/connectwithKavyXCyber024-lab/Luxora-AI?style=for-the-badge&label=Last%20Commit&color=brightgreen" alt="Last commit"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🥇_Built-Luxora_AI-gold?style=for-the-badge" alt="Luxora AI"/>
+  <img src="https://img.shields.io/badge/🚀_Deployed-3_Live_Projects-success?style=for-the-badge" alt="Deployed"/>
+  <img src="https://img.shields.io/badge/📄_Built-ATS_Resume_Optimizer-orange?style=for-the-badge" alt="ResumAI"/>
+  <img src="https://img.shields.io/badge/☕_Delivered-Real_Client_Website-8B4513?style=for-the-badge" alt="Taru Cafe"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🎓_B.Tech-ECE_%7C_RGPV-informational?style=for-the-badge" alt="Education"/>
+  <img src="https://img.shields.io/badge/🎯_Goal-SDE_Intern_at_Big_Tech-critical?style=for-the-badge" alt="Goal"/>
 </p>
 
 ## 🏆 Highlights
