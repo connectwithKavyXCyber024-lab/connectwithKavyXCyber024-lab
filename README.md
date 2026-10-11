@@ -87,9 +87,9 @@ Responsive business website created for a local café, with menu, location, cont
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=connectwithKavyXCyber024-lab&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views"/>
+![Profile Views](https://komarev.com/ghpvc/?username=connectwithKavyXCyber024-lab&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge)
 
-</div>
+<br><br>
 
 ## 📊 GitHub Statistics
 
@@ -131,7 +131,9 @@ Responsive business website created for a local café, with menu, location, cont
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=connectwithKavyXCyber024-lab&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+![Profile Views](https://komarev.com/ghpvc/?username=connectwithKavyXCyber024-lab&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge)
+
+<br><br>
 
 ### Thanks for visiting my profile!
 
